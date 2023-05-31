@@ -34,5 +34,5 @@ Insert the SD Card into a TV Box. Wait until the Menu Screen is displayed and ch
 
 Wait until the firmware be installed in your TV Box.
 
-**WARNING**: Be careful on this procediment, if you turn off your TV BOX when you are flashing the firmware, there is a huge probability to BRICK your TV BOX!
+**WARNING**: Be careful on this procediment, if you turn off your TV BOX when you are flashing the firmware, there is a huge probability to BRICK it!
 
