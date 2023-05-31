@@ -16,5 +16,23 @@ But ok, it is not the End of the World, you can also plug a Wifi Dongle in USB c
 ## First Step - Download Multitool
 In order to iniate the instalation, it is mandatory to download the [Multitool Software](https://users.armbian.com/jock/rk322x/multitool/multitool.img.xz) 
 
-## TV Box Flash Firmware 
-Here you can find the images to restore 
+Burn the Multitool image on an SD Card. You can use (BalenaEtcher)[https://etcher.balena.io/] to do it or other software that pleases you.
+
+## Second Step - Select you firmware
+
+Select the firmware and download it.
+
+## Third Step - Store your firmware on SD Card
+
+Into SD Card, store the selected firmware into "backup" paste.
+
+## Fourth Step - Iniate the firmware instalation 
+
+Insert the SD Card into TV Box. Wait until show the Menu Screen, choose the "Restore Flash" option. After that, select the firmware you already had saved on SD Card.
+
+## Fifth Step - Wait
+
+Wait until the firmware be installed in your TV Box.
+
+**WARNING**: Be careful on this procediment, if you turn off your TV BOX when you are flashing the firmware, there is a huge probability to BRICK your TV BOX!
+
