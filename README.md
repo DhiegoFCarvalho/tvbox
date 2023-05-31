@@ -10,6 +10,7 @@ Both have the same users and passwords:
 3. root password: icts12345
 
 **WARNING**: Due to outdated WiFi and Bluetooth drivers, they are highly unstable and unreliable. When you reboot the TV box, there is a high probability that the WiFi and Bluetooth interfaces will disappear from your screen. 
+
 But ok, it is not the End of the World, you can also plug a Wifi Dongle in USB connector
 
 ## First Step - Download Multitool
