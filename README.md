@@ -50,5 +50,5 @@ Wait until the firmware be restored in your TV Box.
 
 ![Restoring Screen](./images/restoring_screen.png)
 
-**WARNING**: Be careful on this procediment, if you turn off your TV BOX when you are flashing the firmware, there is a huge probability to BRICK it!
+**WARNING**: Be careful on this procediment, if you turn off your TV BOX when you are restoring the firmware, there is a huge probability to BRICK it!
 
