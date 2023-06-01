@@ -28,7 +28,9 @@ Select the firmware and download it.
 
 ## Third Step - Store your firmware on SD Card
 
-Inside SD Card, store the selected firmware into "backup" paste.
+Inside SD Card, store the selected firmware into "backups" paste.
+
+![TX9](./images/multitool_backups.png)
 
 ## Fourth Step - Iniate the firmware instalation 
 
