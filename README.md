@@ -16,7 +16,7 @@ But ok, it is not the End of the World, you can also plug a Wifi Dongle in USB c
 ## First Step - Download Multitool
 In order to iniate the instalation, it is mandatory to download the [Multitool Software](https://users.armbian.com/jock/rk322x/multitool/multitool.img.xz) 
 
-Burn the Multitool image on an SD Card. You can use (BalenaEtcher)[https://etcher.balena.io/] to do it or other software that pleases you.
+Burn the Multitool image on an SD Card. You can use [BalenaEtcher](https://etcher.balena.io/) to do it or other software that pleases you.
 
 ## Second Step - Select your firmware
 
