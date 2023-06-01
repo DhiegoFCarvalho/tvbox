@@ -1,6 +1,6 @@
 # tvbox
 This is a manual explaining how to install restored firmwares in a TVBox using multitool software.
-TX9 (RK3228A) model firmware has 23.02 armbian and 6.1.11 Linux kernel versions, available in:
+TX9 (RK3228A) model firmware is embedded with 23.02 Armbian and 6.1.11 Linux kernel, available in:
 1. [Graphical Interface](https://drive.google.com/file/d/1WScjLpeaY4gGB9VgQsxyA5G8bSaFjIjr/view?usp=sharing) - (comGUI)
 2. [Without Graphical Interface](https://drive.google.com/file/d/1WTwA866K6kwnVr9iloqpN70HUFS1rT9_/view?usp=sharing) - (semGUI)
 
