@@ -38,7 +38,7 @@ Inside SD Card, store the selected firmware into "backups" paste.
 
 Insert the SD Card into a TV Box. Wait until the Menu Screen is displayed and choose the "Restore Flash" option. After that, select the firmware you already had saved on SD Card.
 
-![Restore Screen](./images/restore_screen.png)
+![Restore Screen](./images/restore_screen1.png)
 
 ## Fifth Step - Wait
 
