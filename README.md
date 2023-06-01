@@ -23,7 +23,6 @@ In order to iniate the instalation, it is mandatory to download the [Multitool S
 
 
 Burn the Multitool image on an SD Card. You can use [BalenaEtcher](https://etcher.balena.io/) to do it or other software that pleases you.
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fetcher.balena.io%2F&psig=AOvVaw04HT0g2nL9B-s2W9yfMNTp&ust=1685727328579000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIC8pefNov8CFQAAAAAdAAAAABAD)
 
 ## Second Step - Select your firmware
 
@@ -33,11 +32,13 @@ Select the firmware and download it. Select it according to instructions above.
 
 Inside SD Card, store the selected firmware into "backups" paste.
 
-![TX9](./images/multitool_backups1.png)
+![Backups paste](./images/multitool_backups1.png)
 
-## Fourth Step - Iniate the firmware instalation 
+## Fourth Step - Flash the firmware on ROM Memory 
 
 Insert the SD Card into a TV Box. Wait until the Menu Screen is displayed and choose the "Restore Flash" option. After that, select the firmware you already had saved on SD Card.
+
+![Restore Screen](./images/restore_screen.png)
 
 ## Fifth Step - Wait
 
