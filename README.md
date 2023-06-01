@@ -52,3 +52,8 @@ Wait until the firmware be restored in your TV Box.
 
 **WARNING**: Be careful with this procedure. If you turn off your TV BOX while restoring the firmware, there is a high probability of bricking it!
 
+## References
+
+1. [Vega Data Youtube Channel](https://www.youtube.com/watch?v=R0zjwQG2iE4)
+2. [Armbian Forum](https://forum.armbian.com/topic/12656-csc-armbian-for-rk322x-tv-boxes/)
+
