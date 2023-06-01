@@ -26,7 +26,7 @@ Burn the Multitool image on an SD Card. You can use [BalenaEtcher](https://etche
 
 ## Second Step - Select your firmware
 
-Select the firmware and download it. Select it according to instructions above.
+Select the firmware according to instructions above and download it. 
 
 ## Third Step - Store your firmware on SD Card
 
