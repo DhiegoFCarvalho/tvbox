@@ -34,15 +34,21 @@ Inside SD Card, store the selected firmware into "backups" paste.
 
 ![Backups paste](./images/multitool_backups1.png)
 
-## Fourth Step - Flash the firmware on ROM Memory 
+## Fourth Step - Restore the firmware on ROM Memory 
 
-Insert the SD Card into a TV Box. Wait until the Menu Screen is displayed and choose the "Restore Flash" option. After that, select the firmware you already had saved on SD Card.
+Insert the SD Card into a TV Box. 
+
+Wait until the Menu Screen is displayed and choose the "Restore Flash" option. 
 
 ![Restore Screen](./images/restore_screen.png)
 
+After that, select the firmware you already had saved on SD Card.
+
 ## Fifth Step - Wait
 
-Wait until the firmware be installed in your TV Box.
+Wait until the firmware be restored in your TV Box.
+
+![Restoring Screen](./images/restoring_screen.png)
 
 **WARNING**: Be careful on this procediment, if you turn off your TV BOX when you are flashing the firmware, there is a huge probability to BRICK it!
 
