@@ -4,7 +4,9 @@ TX9 (RK3228A) model firmware is embedded with 23.02 Armbian and 6.1.11 Linux ker
 1. [Graphical Interface](https://drive.google.com/file/d/1WScjLpeaY4gGB9VgQsxyA5G8bSaFjIjr/view?usp=sharing) - (comGUI)
 2. [Without Graphical Interface](https://drive.google.com/file/d/1WTwA866K6kwnVr9iloqpN70HUFS1rT9_/view?usp=sharing) - (semGUI)
 
-![TX9](./images/tx9 model.jpg)
+
+![descrição da imagem](./images/tx9 model.jpg)
+
 Both have the same users and passwords:
 1. User login: icts
 2. User password: icts12345
