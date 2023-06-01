@@ -32,7 +32,7 @@ Select the firmware and download it. Select it according to instructions above.
 
 Inside SD Card, store the selected firmware into "backups" paste.
 
-![Backups paste](./images/multitool_backups1.png)
+![Backups paste](./images/multitool_backups.png)
 
 ## Fourth Step - Flash the firmware on ROM Memory 
 
